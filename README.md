@@ -1,1 +1,1 @@
-# pucp-conocimiento
+# pucp-HumanDiseaseOntology
